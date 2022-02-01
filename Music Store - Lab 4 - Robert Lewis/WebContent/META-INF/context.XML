@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<Context>
+	<Resource name="jdbc/musicstore"
+		auth="Container"
+		driverClassName="com.mysql.jdbc.Driver"
+		url="jdbc:mysql://localhost:3306/musicstore"
+		username="root"
+		password="admin"
+		type="javax.sql.DataSource"
+	/>
+</Context>
